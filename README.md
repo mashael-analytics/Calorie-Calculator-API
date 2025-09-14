@@ -1,7 +1,17 @@
 # Calorie Calculator API
 
-A simple Python project that fetches nutrition data (calories, protein, carbs, fat) for foods using the **USDA FoodData Central API**.  
-Perfect for data analysis, calorie tracking, and food research.
+A Python-based data analysis tool that interacts with the **USDA FoodData Central API** to fetch and process nutrition data (calories, protein, carbs, fat) for various food items.
+
+This project demonstrates practical skills in:
+
+- Python scripting
+- Working with RESTful APIs (GET requests, parameters)
+- Data extraction and transformation
+- File handling (CSV)
+- Preparing data for analysis using **pandas**
+
+Perfect for data analysis, calorie tracking, and food research — built with real-world coding practices and clean, modular code.
+
 
 ---
 
