@@ -37,6 +37,23 @@ pip install requests pandas
 
 ---
 
+## Example Output
+
+```json
+[
+  {
+    "description": "PIZZA",
+    "brand": "The Kroger Co.",
+    "calories": 238,
+    "protein": 6.8,
+    "carbs": 32.0,
+    "fat": 2.38
+  }
+]
+```
+
+---
+
 ## Use Cases
 
 - Nutrition analysis
